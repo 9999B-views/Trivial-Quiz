@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_home.xml.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\layout-land\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-port_home.xml.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\layout-port\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_quiz_end_summary.xml.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\layout-land\\quiz_end_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-port_quiz.xml.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\layout-port\\quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_quiz.xml.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\layout-land\\quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_quiz_answer_row.xml.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\layout\\quiz_answer_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-port_quiz_end_summary.xml.flat",
+        "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\layout-port\\quiz_end_summary.xml"
+    }
+]

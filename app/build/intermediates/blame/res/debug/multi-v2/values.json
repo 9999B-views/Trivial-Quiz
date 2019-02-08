@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "52,31,33,21,39,41,48,25,50,43,37,27",
+                        "startColumns": "1,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2205,1088,1183,667,1422,1529,1790,800,1963,1631,1320,941",
+                        "endLines": "55,31,33,21,39,41,48,25,50,43,37,27",
+                        "endColumns": "14,51,55,44,58,62,102,68,191,70,55,49",
+                        "endOffsets": "2578,1135,1234,707,1476,1587,1888,864,2150,1697,1371,986"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,433,485,541,586,645,708,811,880,1072,1143,1199",
+                        "endLines": "5,6,7,8,9,10,11,12,13,14,15,16",
+                        "endColumns": "14,51,55,44,58,62,102,68,191,70,55,49",
+                        "endOffsets": "428,480,536,581,640,703,806,875,1067,1138,1194,1244"
+                    }
+                }
+            ]
+        }
+    ]
+}

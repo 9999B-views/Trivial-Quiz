@@ -1,0 +1,4 @@
+#Fri Feb 08 08:50:04 SGT 2019
+base.0=C\:\\Users\\zawaw\\Desktop\\ADMOB\\QUIZ\\QUIZWORKING\\USEMODEL\\Trivial-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

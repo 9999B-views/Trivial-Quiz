@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:21:1-43:12
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:21:1-43:12
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:21:1-43:12
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:21:1-43:12
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:21:1-43:12
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:21:1-43:12
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:21:1-43:12
+	package
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:23:2-34
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:25:2-29
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:22:2-60
+	android:versionCode
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:24:2-25
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:26:2-42:15
+	android:label
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:28:3-35
+	android:icon
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:27:3-32
+activity#uk.co.sinjakli.trivial.HomeActivity
+ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:29:3-38:14
+	android:label
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:31:4-36
+	android:name
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:30:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:32:4-37:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:33:5-34:50
+	android:name
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:34:6-47
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:35:5-36:56
+	android:name
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:36:6-53
+activity#uk.co.sinjakli.trivial.QuizActivity
+ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:39:3-40:77
+	android:label
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:40:33-65
+	android:name
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:40:4-32
+activity#uk.co.sinjakli.trivial.QuizEndActivity
+ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:41:2-87
+	android:label
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:41:43-75
+	android:name
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml:41:12-42
+uses-sdk
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zawaw\Desktop\ADMOB\QUIZ\QUIZWORKING\USEMODEL\Trivial-master1\app\src\main\AndroidManifest.xml
